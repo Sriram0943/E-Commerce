@@ -1,6 +1,9 @@
 # E-Commerce
 Seamless shopping, search and explore different product categories, add products to cart, and checkout swiftly.
 Become a seller and add products, monitor sales, and gather customer feedback.
+![Screenshot (32)](https://github.com/user-attachments/assets/e151d855-8fd3-4d79-847e-fc9e0b2d873f)
+
+
 
 
 About:-
